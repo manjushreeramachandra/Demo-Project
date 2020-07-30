@@ -3,8 +3,8 @@ mat-toolbar {
     justify-content: space-between;
 }
 .content {
-    padding: 16px;
+    padding: 5px;
 }
 .content > mat-card {
-    margin-bottom: 16px;
+    margin-bottom: 5px;
 }
